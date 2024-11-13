@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iNobara
+- 👋 Hi, I’m @wins0m
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning blockchain 
 - 💞️ I’m looking to collaborate on DePIN, RWA projects. 
